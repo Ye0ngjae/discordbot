@@ -1,0 +1,8 @@
+BeautifulSoup
+json
+requests
+asyncio
+discord.py
+urllib
+localtime
+strftime
