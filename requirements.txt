@@ -2,4 +2,3 @@ bs4
 requests
 asyncio
 discord.py
-nipy
