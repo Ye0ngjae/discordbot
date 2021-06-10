@@ -6,3 +6,4 @@ discord.py
 urllib
 localtime
 strftime
+nipy
