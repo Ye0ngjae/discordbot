@@ -1,5 +1,4 @@
 bs4
-json
 requests
 asyncio
 discord.py
