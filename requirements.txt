@@ -2,6 +2,5 @@ bs4
 requests
 asyncio
 discord.py
-localtime
 strftime
 nipy
