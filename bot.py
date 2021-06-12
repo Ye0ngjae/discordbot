@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup #클로링
 import nipy #급식, 학사일정 파서(외부 라이브러리)
 from time import localtime, strftime #일시 지정
 
-#만든이 : 인천백석중학교 30220 남영재
+#만든이 : 인천 백석중학교 30220 남영재
 
 
 cal = nipy.Scalendar("인천","E100000770", "3")
