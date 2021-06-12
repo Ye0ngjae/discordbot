@@ -1,4 +1,6 @@
+discord.py
+asyncio
 bs4
 requests
-asyncio
-discord.py
+
+
