@@ -5,8 +5,6 @@ from bs4 import BeautifulSoup #클로링
 import nipy #급식, 학사일정 파서(외부 라이브러리)
 from time import localtime, strftime #일시 지정
 
-load_dotenv()
-
 cal = nipy.Scalendar("인천","E100000770", "3")
 
 #급식파서 세팅
