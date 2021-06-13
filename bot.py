@@ -1,6 +1,6 @@
 import asyncio
 import discord #디스코드
-import urllib #크롤링
+import urllib.request #크롤링
 from bs4 import BeautifulSoup #클로링
 import nipy #급식, 학사일정 파서(외부 라이브러리)
 from time import localtime, strftime #일시 지정
