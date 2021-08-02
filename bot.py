@@ -152,5 +152,5 @@ async def on_message(message):
 
 
 
-tk = 'ODUyMTM1MDIyNTU4NzA3NzMz.{}'.format('YMCalQ.oMJHOUHqTAtrssMKGJ6BFTREUog')
+tk = ''
 client.run(tk)
