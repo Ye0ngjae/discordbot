@@ -26,15 +26,16 @@ Python file을 선택한다
 
 공지사항 불러오기
 --
-![Alt text](https://cdn.discordapp.com/attachments/872469986306838529/872473208484429865/unknown.png) 
+![Alt text](https://cdn.discordapp.com/attachments/872469986306838529/872473208484429865/unknown.png)   
 현재 홈페이지 공지사항 목록 중 최상단(고정 공지사항 제외)에 위치한 공지를 불러온다.(시간이 좀 걸릴 수 있음)   
 
 학교소식 불러오기
+--
 ![Alt text](https://cdn.discordapp.com/attachments/872469986306838529/872473659191746681/unknown.png)   
 현재 홈페이지 학교소식 목록 중 최상단(고정 학교소식 제외)에 위치한 공지를 불러온다.(시간이 좀 걸릴 수 있음)    
    
      
-현재 홈페이지 내에서 학교소식란이 사라짐
+-현재 홈페이지 내에서 학교소식란이 사라짐
 
 급식 불러오기
 --
