@@ -50,7 +50,7 @@ async def on_message(message):
         embed1.add_field(name='//급식', value='오늘 급식을 불러옵니다', inline=False)
         embed1.add_field(name='//학사일정', value='한 달 동안의 학사일정을 불러옵니다', inline=False)
         embed1.set_thumbnail(url=photo)
-        embed1.set_footer(text='버그제보:남영재#4967')
+        embed1.set_footer(text='')
         await channel.send(embed=embed1)
     
     #명령어 설명
